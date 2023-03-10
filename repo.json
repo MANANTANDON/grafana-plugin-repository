@@ -1,5 +1,19 @@
 {
   "plugins": [
+    
+     {
+      "id": "manan-demoplugin-panel",
+      "type": "panel",
+      "url": "https://github.com/MANANTANDON/Grafana/tree/main/manan-demoplugin-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "baca3a13f380aeb3bcdaf49eefc8fe5a36b39c12",
+          "url": "https://github.com/MANANTANDON/Grafana/tree/main/manan-demoplugin-panel"
+          
+        }
+      ]
+    },
     {
       "id": "oci-metrics-datasource",
       "type": "datasource",
